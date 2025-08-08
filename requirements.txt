@@ -1,0 +1,8 @@
+# Requires Python 3.13.5
+langchain
+wikipedia
+langchain-community
+langchain-openai
+langchain-anthropic
+python-dotenv
+pydantic
